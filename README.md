@@ -1,7 +1,6 @@
 # StudyNotion
-## Live 
-[https://study-notion-frontend-wheat.vercel.app/ \
-otp mail will be in your spam section](https://studynotion-edtech-platform-zeta.vercel.app/)
+## Live  -  https://study-notion-frontend-wheat.vercel.app 
+
 ## Installation
 
 1. Clone the repository: `https://github.com/Horror26/StudyNotion.git`
