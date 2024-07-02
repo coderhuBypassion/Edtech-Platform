@@ -1,9 +1,9 @@
 # StudyNotion
-## Live  -  https://study-notion-frontend-wheat.vercel.app 
+## Live  -  https://studynotion-edtech-platform-zeta.vercel.app/
 
 ## Installation
 
-1. Clone the repository: `https://github.com/Horror26/StudyNotion.git`
+1. Clone the repository: `https://github.com/Rahulkottak/Edtech-Platform.git`
 2. Navigate to the project directory: `cd `
 3. Install dependencies: `npm install`
 
@@ -18,9 +18,6 @@
     ```sh
     npm run dev
     ```
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 ## System Architecture
 
